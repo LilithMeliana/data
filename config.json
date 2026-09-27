@@ -1,0 +1,6 @@
+{
+    "version": 2,
+    "gold" : 500,
+    "damage":25,
+    "playerSpeed":150
+}
